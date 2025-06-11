@@ -1,11 +1,11 @@
 ---
-title: "PERTEMUAN 3 MATERI 2"
+title: "N-Queens Problem"
 date: 2025-05-06
 categories: [Desan dan Analisis Algoritma, N-Queens Problem]
 tags: [daa, N-Queens Problem, desain, analisis algoritma]
 ---
 
-## Queens Problem
+## N-Queens Problem
 
 ## Definisi N-Queens Problem
 

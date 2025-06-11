@@ -1,8 +1,8 @@
 ---
-title: "PERTEMUAN 2 MATERI 2"
+title: "Fractional Knapsack"
 date: 2025-05-06
 categories: [Desan dan Analisis Algoritma, Fractional Knapsack]
-tags: [daa, Activity Selection Problem, desain, analisis algoritma]
+tags: [daa, Fractional Knapsack, desain, analisis algoritma]
 ---
 
 # Fractional Knapsack

@@ -1,5 +1,5 @@
 ---
-title: "PERTEMUAN 4 MATERI 2"
+title: "Breadth-First Search (BFS)"
 date: 2025-05-06
 categories: [Desan dan Analisis Algoritma, Breadth-First Search (BFS)]
 tags: [daa, Breadth-First Search (BFS), desain, analisis algoritma]

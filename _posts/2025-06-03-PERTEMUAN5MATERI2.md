@@ -1,5 +1,5 @@
 ---
-title: "PERTEMUAN 5 MATERI 2"
+title: "Dijkstra's Algorithm"
 date: 2025-05-06
 categories: [Desan dan Analisis Algoritma, Dijkstra's Algorithm]
 tags: [daa, Dijkstra's Algorithm, desain, analisis algoritma]

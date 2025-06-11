@@ -1,5 +1,5 @@
 ---
-title: "PERTEMUAN 4 MATERI 3"
+title: "Depth-First Search (DFS)"
 date: 2025-05-06
 categories: [Desan dan Analisis Algoritma, Depth-First Search (DFS)]
 tags: [daa, Depth-First Search (DFS), desain, analisis algoritma]

@@ -1,5 +1,5 @@
 ---
-title: "PERTEMUAN 3 MATERI 3"
+title: "Subset Sum Problem"
 date: 2025-05-06
 categories: [Desan dan Analisis Algoritma, Subset Sum Problem]
 tags: [daa, Subset Sum Problem, desain, analisis algoritma]
